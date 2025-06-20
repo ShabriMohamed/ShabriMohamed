@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hey there, I'm Mohamed Shabri! 🚀  
+# 👋 Hi, I'm Mohamed Shabri! 🚀  
 ## 🌐 Web Developer | 💡 Tech Enthusiast | 🎓 Cardiff Met Undergrad  
-*Attempting to break the internet... one line of code at a time.*
+*Turning ideas into reality, one line of code at a time.*
 
 </div>
 
 ---
 
-### 🛠️ My Weaponry (aka Tech Stack)
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -23,36 +23,27 @@
 
 ---
 
-### 🧑‍💻 Who Am I?  
-I’m just a *Cardiff Met student* with a dream and an unhealthy obsession with **React**, **Java**, and **JavaScript**.  
-I spend my time making things **look good** and **work better**. 
+### 🧑‍💻 About Me  
+I'm a **Cardiff Met** student passionate about creating **clean, efficient, and user-friendly** web applications. I believe in writing code that is not just functional but **elegant**, with a focus on creating **intuitive user experiences**. I’m constantly improving my skills and learning new technologies to stay ahead of the curve.
 
-- 💻 **Frontend Guru (sometimes)** – I turn pixels into reality with **HTML**, **CSS**, and **React**.
-- ☕️ **Java Aficionado** – When I’m not writing React components, I’m in Java mode, pretending I’m in charge of the backend.
-- 🎨 **UX/UI Designer by Accident** – I may not be a designer, but I make sure that buttons look nice and the user experience doesn't suck.
-- 🚀 **Code Breaker & Debugging Master** – Some people fear bugs; I chase them down and fix them like a pro. Sometimes.
-
----
-
-### 📈 GitHub Stats (A.K.A. My Virtual Trophy Shelf)
-
-![Mohamed Shabri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)
+- 💻 **Frontend**: Passionate about bringing designs to life using **React**, **HTML**, **CSS**, and **JavaScript**.
+- ☕ **Java Enthusiast**: Crafting scalable and efficient backend systems using **Java**.
+- 🎨 **UI/UX Focused**: Building user-friendly, clean, and responsive designs that provide seamless experiences.
+- 🔄 **Continuous Learner**: I'm always exploring new tools, frameworks, and technologies to stay on top of industry trends.
 
 ---
 
-### 🏆 My Projects (The Big Ones)
+### 📈 GitHub Stats
 
-These are the **projects** I’m proud of (and some I’m just too shy to show off):
-
-- **[Project Name 1](#)** – A **react**-ive website that will blow your mind... or not, but at least it works.
-- **[Project Name 2](#)** – Java backend that does **magic** (in my world, that’s what I call logic).
-- **[Project Name 3](#)** – A **full-stack** monstrosity that *could* change the world... or just make life easier for a few users.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true" />
+</div>
 
 ---
 
-### 💬 Let's Chat! (I promise I don’t bite)
+### 📫 Let’s Connect!
 
-I’m always down for **collaboration** or just talking tech. If you need a **developer**, or if you just want to talk about how cool **React** is (or not), hit me up!
+I’m always open to networking, collaboration, or just chatting about **tech** and **development**. Feel free to reach out via:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourusername/">
@@ -65,10 +56,9 @@ I’m always down for **collaboration** or just talking tech. If you need a **de
 
 ---
 
-### 👀 Visitor Count (Just for Fun)
+### 👀 Visitor Count
 
-See how many brave souls have come to check out my page.  
-*Don’t worry, you won’t be judged… much.*
+Feel free to take a peek at my profile!
 
 <div align="center">
   ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
@@ -76,15 +66,10 @@ See how many brave souls have come to check out my page.
 
 ---
 
-### 💡 Fun Facts About Me (Spoiler: They’re All True)
+### 💡 Fun Facts
 
-- 🎮 **Code + Coffee = Magic** – If you see me coding without coffee, that’s a sign something’s wrong.
-- 💻 **React is my happy place** – It's like home, but with more hooks.
-- 🧠 **I Google everything** – Who doesn’t? That’s what Google’s for, right?
+- 💻 **Code** is my happy place, but **coffee** makes it better.
+- 🚀 I'm fascinated by new web technologies and always looking for **innovative ways** to build applications.
+- 🌱 Currently learning about **cloud computing** and diving deeper into **machine learning**.
 
 ---
-
-### 🤔 What’s Next for Me?
-
-I’m on a mission to make the internet a better place, one bug at a time. Next up, I’m learning more about **machine learning** and **cloud computing** (because who needs sleep when there’s tech to explore?). Stay tuned for more random, yet exciting, updates!
-
