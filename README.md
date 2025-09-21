@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hello, I'm Shabri Mohamed! 🚀
+# 👋 Hey, I'm Shabri Mohamed! 🚀
 
 ## 🌐 Web Developer | 💡 Tech Enthusiast | 🎓 Cinec Undergrad
 
 </div>
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech I'm into
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,12 +16,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🚀 My World of Development
+### 🚀 My Tech Journey
 
-- 💻 Crafting digital experiences with a special passion for web development.
-- 🎨 Bringing creativity to UI/UX designs.
-- ☕️ Java aficionado, exploring the art of elegant coding.
+- 💻 I live and breathe web development, always working to build better, more interactive experiences.
+- 🎨 I enjoy dabbling in UI/UX design, making sure everything looks and feels just right.
+- ☕️ I'm a Java lover but also exploring the world of Python.
+- 🤖 Getting into Machine Learning and AI—just scratching the surface, but I'm hooked!
 
 ### 📈 GitHub Stats
 
