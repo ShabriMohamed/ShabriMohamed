@@ -30,9 +30,6 @@
 
 ![Shabri Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShabriMohamed&show_icons=true&theme=radical)
 
-### 🐍 Contribution Graph
-
-![snake gif](https://github.com/ShabriMohamed/ShabriMohamed/blob/output/github-contribution-grid-snake.gif)
 
 ### 📫 Let's Connect!
 
