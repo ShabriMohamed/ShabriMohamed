@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Mohamed Shabri! 🚀
+# 👋 Hello, I'm Shabri Mohamed! 🚀
 
 ## 🌐 Web Developer | 💡 Tech Enthusiast | 🎓 Cinec Undergrad
 
@@ -25,12 +25,9 @@
 
 ### 📈 GitHub Stats
 
-![Mohamed Shabri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shabri Mohamed&show_icons=true&theme=dark)
+![Shabri Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShabriMohamed&show_icons=true&theme=dark)
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShabriMohamed/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShabriMohamed)
