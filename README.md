@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Mohamed Shabri! 🚀
 
-## 🌐 Web Developer | 💡 Tech Enthusiast | 🎓 Cardiff Met Undergrad
+## 🌐 Web Developer | 💡 Tech Enthusiast | 🎓 Cinec Undergrad
 
 </div>
 
