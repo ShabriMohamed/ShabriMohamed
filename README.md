@@ -25,7 +25,7 @@
 
 ### 📈 GitHub Stats
 
-![Mohamed Shabri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Mohamed Shabri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shabri Mohamed&show_icons=true&theme=dark)
 
 ### 📫 Let's Connect!
 
